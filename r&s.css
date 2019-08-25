@@ -1,0 +1,57 @@
+body {
+background-image: url("h.jpg");
+background-color: #cccccc;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+
+}
+.astro{
+  text-align: left;
+text-decoration: inherit;
+}
+.astro{
+  color: white;
+  text-align: center;
+  width: 200px
+  margin:auto;
+}
+ul{
+  list-style: none;
+  margin: 0;
+  padding:0;
+  overflow: hidden;
+  background-color: black;
+
+}
+li{
+  float: ;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 15px;
+  text-decoration: none;
+  font-size: 25px
+
+}
+h1 {
+  text-shadow: 2px 2px #FF0000;
+}
+body h2{
+  text-shadow:0px 2px black;
+  color: white;
+background-size: contain;
+  text-align: left;
+}
+
+.carousel{
+  margin: auto;
+}
+.astronomy{
+  text-shadow: 0px 2px black;
+  text-align: center;
+  color: white;
+}
